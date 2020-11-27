@@ -7,7 +7,7 @@
 
 
 EYES=('o' 'O' 'è é' 'é è' '°' 'V' 'T' 'u' 'U' 'o O' 'O o' 'w' 'W')  # List of eyes available, there can be one eye or two
-MOUTHES=('w' '_' '>' '<' 'ω' 'u' '-')                               # List of mouthes available
+MOUTHES=('w' '_' '>' '<' 'ω' 'u' '-' '~')                           # List of mouthes available
 
 eyes_number=${#EYES[@]}         # Number of element in EYES -1
 mouthes_number=${#MOUTHES[@]}   # Number of element in MOUTHES -1
